@@ -1,0 +1,85 @@
+
+newmtl Material.000001
+Ka 0.682353 0.729412 0.796079
+Kd 0.682353 0.729412 0.796079
+Ks 0.682353 0.729412 0.796079
+d 1
+Ns 0
+
+newmtl Material.000021
+Ka 0.682353 0.729412 0.796079
+Kd 0.682353 0.729412 0.796079
+Ks 0.682353 0.729412 0.796079
+d 1
+Ns 0
+
+newmtl Material.000041
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.9 0.9 0.9
+d 1
+Ns 0.1
+
+newmtl Material.000059
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.9 0.9 0.9
+d 1
+Ns 0.1
+
+newmtl Material.000071
+Ka 0.682353 0.729412 0.796079
+Kd 0.682353 0.729412 0.796079
+Ks 0.682353 0.729412 0.796079
+d 1
+Ns 0
+
+newmtl Material.000091
+Ka 0.682353 0.729412 0.796079
+Kd 0.682353 0.729412 0.796079
+Ks 0.682353 0.729412 0.796079
+d 1
+Ns 0
+
+newmtl Material.0000b1
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.9 0.9 0.9
+d 1
+Ns 0.1
+
+newmtl Material.0000c9
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.862745 0.862745 0.862745
+d 1
+Ns 1
+map_Kd male.png
+
+
+newmtl Material.000185
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.862745 0.862745 0.862745
+d 1
+Ns 1
+map_Kd male.png
+
+
+newmtl Material.00034f
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.862745 0.862745 0.862745
+d 1
+Ns 1
+map_Kd mane.png
+
+
+newmtl Material.00035a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.862745 0.862745 0.862745
+d 1
+Ns 1
+map_Kd male.png
+

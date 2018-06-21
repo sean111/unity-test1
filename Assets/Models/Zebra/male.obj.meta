@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: b7beb5c9cc1fc0147843ee5817057626
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Biped_Object
+    100002: Biped_Object1
+    100004: Biped_Object4
+    100006: Bone
+    100008: Bone0
+    100010: Bone2
+    100012: Bone3
+    100014: //RootNode
+    100016: Zebra_Adult_M_LOD0:0
+    100018: Zebra_Adult_M_LOD0:1
+    100020: Zebra_Adult_M_LOD1:0
+    100022: Zebra_Adult_M_LOD2:0
+    400000: Biped_Object
+    400002: Biped_Object1
+    400004: Biped_Object4
+    400006: Bone
+    400008: Bone0
+    400010: Bone2
+    400012: Bone3
+    400014: //RootNode
+    400016: Zebra_Adult_M_LOD0:0
+    400018: Zebra_Adult_M_LOD0:1
+    400020: Zebra_Adult_M_LOD1:0
+    400022: Zebra_Adult_M_LOD2:0
+    2100000: Biped_ObjectMat
+    2100002: Biped_Object1Mat
+    2100004: Biped_Object4Mat
+    2100006: BoneMat
+    2100008: Bone0Mat
+    2100010: Bone2Mat
+    2100012: Bone3Mat
+    2100014: Zebra_Adult_M_LOD0_0Mat
+    2100016: Zebra_Adult_M_LOD0_1Mat
+    2100018: Zebra_Adult_M_LOD1_0Mat
+    2100020: Zebra_Adult_M_LOD2_0Mat
+    2300000: Biped_Object
+    2300002: Biped_Object1
+    2300004: Biped_Object4
+    2300006: Bone
+    2300008: Bone0
+    2300010: Bone2
+    2300012: Bone3
+    2300014: Zebra_Adult_M_LOD0:0
+    2300016: Zebra_Adult_M_LOD0:1
+    2300018: Zebra_Adult_M_LOD1:0
+    2300020: Zebra_Adult_M_LOD2:0
+    3300000: Biped_Object
+    3300002: Biped_Object1
+    3300004: Biped_Object4
+    3300006: Bone
+    3300008: Bone0
+    3300010: Bone2
+    3300012: Bone3
+    3300014: Zebra_Adult_M_LOD0:0
+    3300016: Zebra_Adult_M_LOD0:1
+    3300018: Zebra_Adult_M_LOD1:0
+    3300020: Zebra_Adult_M_LOD2:0
+    4300000: Biped_Object
+    4300002: Biped_Object1
+    4300004: Biped_Object4
+    4300006: Bone
+    4300008: Bone0
+    4300010: Bone2
+    4300012: Bone3
+    4300014: Zebra_Adult_M_LOD0:0
+    4300016: Zebra_Adult_M_LOD0:1
+    4300018: Zebra_Adult_M_LOD1:0
+    4300020: Zebra_Adult_M_LOD2:0
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra_Adult_M_LOD0_0Mat
+    second: {fileID: 2100000, guid: fe67b9f80fc06b44ab11766bdb69d79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra_Adult_M_LOD0_1Mat
+    second: {fileID: 2100000, guid: fe67b9f80fc06b44ab11766bdb69d79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra_Adult_M_LOD1_0Mat
+    second: {fileID: 2100000, guid: fe67b9f80fc06b44ab11766bdb69d79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra_Adult_M_LOD2_0Mat
+    second: {fileID: 2100000, guid: fe67b9f80fc06b44ab11766bdb69d79f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
